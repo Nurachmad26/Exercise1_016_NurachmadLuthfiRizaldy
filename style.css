@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(176, 191, 204);
+text-align: center;
+border-style: double;
+}
+
+img{
+    height: fit-content;
+    width: fit-content;
+    size: 40cm;
+}
+p{
+    font-size: 22px;
+    color: azure;
+}
+i{
+    color: azure;
+    font-size: 19px;
+    border-style:double
+}
+h1{
+    background-color: rgb(255, 255, 255);
+    border-style:none
+}
